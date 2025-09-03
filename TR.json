@@ -2944,25 +2944,25 @@
                 "Pay first!"
             ],
             "traderwarning": [
-                "Leave.",
-                "Leave. Now.",
-                "Out! Get out!",
-                "Leave this pod.",
-                "I don't like you being here. Leave.",
-                "Leave!",
-                "Out.",
-                "Get out of here!",
-                "Get lost.",
-                "Fuck off!",
-                "Fuck off."
+                "Çık.",
+                "Çık. Şimdi.",
+                "Çık! Çık dışarı!",
+                "Bu kapsülden ayrıl.",
+                "Senin burada olmandan hoşlanmıyorum. Çık.",
+                "Çık!",
+                "Dışarı.",
+                "Buradan çık git!",
+                "Kaybol.",
+                "Siktir git!",
+                "Siktir git."
             ],
             "tradercombat": [
-                "I'm done with your shit.",
-                "Fuck OFF!",
-                "I'M DONE WITH YOU!",
-                "FUCK YOU!",
-                "OUT! GET OUT! NOW! OUT!",
-                "GET OUT!"
+                "Senin saçmalıklarınla işim bitti.",
+                "Siktir GİT!",
+                "SENİNLE İŞİM BİTTİ!",
+                "SİKTİR GİT!",
+                "DIŞARI! DIŞARI ÇIK! ŞİMDİ! DIŞARI!",
+                "ÇEK GİT!"
             ],
             "traderthreatensuccess": [
                 "Okay, okay, jeez... Take whatever, just don't hurt me...",
