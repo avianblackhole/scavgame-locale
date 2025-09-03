@@ -2827,10 +2827,10 @@
                 "Bu saatimsi şeyi sevdim. Çok rahat."
             ],
             "drillend": [
-                "...That took a while.",
-                "I swear that thing had no soundproofing.",
-                "Pretty long ride there...",
-                "My ears hurt after that."
+                "...Bu biraz uzun sürdü.",
+                "Yemin ederim ki o şeyin ses yalıtımı yoktu.",
+                "Epey uzun bir yolculuktu...",
+                "Ondan sonra kulaklarım ağrımaya başladı."
             ],
             "loud": [
                 "FUCK! That was loud...",
@@ -2903,15 +2903,15 @@
                 "Hmm... Okay."
             ],
             "traderhagglefail": [
-                "You didn't sound very convincing there.",
-                "...No, thanks.",
-                "Nuh uh.",
-                "Not interested.",
-                "What? Why would I do that..?",
-                "Meeehhh... Another time.",
-                "Meh.",
-                "...Nhh...",
-                "...Ugh. Sorry."
+                "Sesin pek ikna edici gelmedi.",
+                "...Hayır, teşekkürler.",
+                "Yoh hayır.",
+                "İlgilenmiyorum.",
+                "Ne? Bunu neden yapayım ki..?",
+                "Eeehhh... Başka zaman.",
+                "Eh.",
+                "...Innh...",
+                "...Iğh. Maalesef."
             ],
             "traderdepressed": [
                 "...Uh... ...Are you okay? You look a little... Disgruntled...?",
@@ -2922,12 +2922,12 @@
                 "Hey! ...What's with that piercing look? Uhm..."
             ],
             "tradergiveitem": [
-                "Thanks!",
-                "Adding that to the count.",
-                "Thank you!",
-                "I'll be needing that.",
-                "Aye! Thanks!",
-                "Good!"
+                "Sağol!",
+                "Onu toplama ekliyorum.",
+                "Teşekkkürler!",
+                "Buna ihtiyacım olacak.",
+                "Oy! Sağol!",
+                "Güzel!"
             ],
             "traderbuy": [
                 "Here you are. Cheers!",
