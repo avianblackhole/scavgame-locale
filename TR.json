@@ -1683,7 +1683,7 @@
                 "Uuğff.. ıy...",
                 "Boş... uğğf... hissediyorum...",
                 "Öğğğkk... köh... karnım...",
-                "Uğğğhh... Çok... hastayım",
+                "Uğğğhh... Çok... hastayım...",
                 "Bu kadar fena olduğuma... inanamıyorum...",
                 "Öğğğkk... uuuff...",
                 "Çok zayıfım.. uf...",
@@ -1704,7 +1704,7 @@
                 "Yemin ederim kanın öyle davranmaması gerek.",
                 "Gğğöğğk... Neden kusmuğum... O kadar sarı...?",
                 "Uuğğhh... Bir şeyler... ters...",
-                "Kusmuğun... Kusmuğun tadı öyle olmaz... B-bir dakika...",
+                "Kusmuğun... Kusmuğun tadı öyle olmaz... Bi-bir dakika...",
                 "Guuğğhh... Hık... O... O karnımdan çıkmadı. Tanrım... Hassiktir.",
                 "Hööörğğk... İmdat... Kan kustum...",
                 "İnanamıyorum... Ben... Kan mı kustum...",
@@ -2847,60 +2847,60 @@
             ],
             "tradeemeet": [
                 "Hey!",
-                "Hello?",
-                "Oh! Hello!",
-                "Hm?",
-                "Finally, someone...",
-                "...Hello?",
-                "Hay!",
-                "Hello!"
+                "Merhaba?",
+                "Ah! Selam!",
+                "Hım?",
+                "Sonunda, birisi...",
+                "...Merhaba?",
+                "Selam!",
+                "Merhaba!"
             ],
             "tradermeetnormal": [
                 "Hey!",
-                "Hello!",
-                "Oh! Someone finally came over...",
-                "Oh! Heya.",
-                "Hey! Glad to see someone alive.",
-                "Hey, buddy.",
-                "Welcome!"
+                "Merhaba!",
+                "Oh! Sonunda biri geldi..",
+                "Ah! Merhaba.",
+                "Ey! Seni hayatta gördüğüme sevindim.",
+                "Hey, dostum.",
+                "Hoşgeldin!"
             ],
             "tradermeetgood": [
-                "Ah! Hi!!",
-                "Hello! How are ya?",
-                "Aah! Hello!! Hi!"
+                "Ah! Selam!!",
+                "Merhaba! Nasılsın?",
+                "Aah! Merhaba!! Selam!"
             ],
             "tradermeetbad": [
-                "Hheeyy...I dislike your presence..?",
-                "H... Hello... Uhh...",
+                "Heyyy... Varlığından pek hoşlanmadım..?",
+                "M... Merhaba... Iıı...",
                 "...Hey.",
-                "...Hm. Hello."
+                "...Hım. Merhaba."
             ],
             "traderhugsuccess": [
-                "Awww... Thank you.",
-                "Ahhh... Thank you, buddy.",
-                "Mmmh... Aww, thanks!",
-                "Ah! Mmhh... Thank you...",
-                "Aw! You're so nice!",
-                "...Thank you, I needed that."
+                "Ayyy... Teşekkür ederim.",
+                "Ahhh... Sağol, dostum.",
+                "Mıhhh... Ayy, sağol!",
+                "Ah! Mımhh... Teşekkür ederim...",
+                "Aa! Ne kadar naziksin!",
+                "...Teşekkür ederim, buna ihtiyacım vardı."
             ],
             "traderhugfail": [
-                "AHHH! Don't touch me out of nowhere...",
-                "Hey! No touchy.",
-                "Aghh! Hey! No touchies!",
-                "I'll pass...",
-                "No thanks.",
-                "Wh- Hey! Get your paws off of me.",
-                "Hey! Don't touch me! I don't trust you."
+                "AHHH! Durup dururken bana dokunma...",
+                "Ey! Dokunmak yok.",
+                "Ağhh! Eyy! Dokunmak yok!",
+                "Almayayım...",
+                "Hayır, sağol.",
+                "Ne- Ey! Patilerini üstümden çek.",
+                "Hey! Dokunma bana! Sana güvenmiyorum."
             ],
             "traderhagglesuccess": [
-                "...Okay!",
-                "Mmmmhmmm... Got it.",
-                "I'll think about it.",
-                "I'll consider...",
-                "Y-yeah... Sure...",
-                "Makes sense to me!",
-                "Uh huh.",
-                "Hmm... Okay."
+                "...Peki!",
+                "Hıııhııı... Anladım.",
+                "Bunu düşüneceğim.",
+                "Dikkate alacağım...",
+                "Ta-tabi... Olur...",
+                "Kulağa mantıklı geliyor!",
+                "Hı hı.",
+                "Hımm... Tamam."
             ],
             "traderhagglefail": [
                 "Sesin pek ikna edici gelmedi.",
@@ -2914,34 +2914,34 @@
                 "...Iğh. Maalesef."
             ],
             "traderdepressed": [
-                "...Uh... ...Are you okay? You look a little... Disgruntled...?",
-                "...No greetings or anything...? Wh... Why are you looking at me like that...",
-                "...? ...Um...  ...Hello..? ...You there..?",
-                "...You look terrified. Are you okay? Hello...?",
-                "Hey! How are yooouuuu......you don't look so well there, buddy... Uhm...",
-                "Hey! ...What's with that piercing look? Uhm..."
+                "...Iı... ...İyi misin? Biraz... huysuz görünüyorsun...?",
+                "...Karşılama yok mu...? Ne... neden bana öyle bakıyorsun...",
+                "...? ...Iıh...  ...Merhaba..? ...Orada mısın..?",
+                "...Çok korkmuş gözüküyorsun. İyi misin? Merhaba...?",
+                "Ey! Nasılsıııı......çok iyi görünmüyorsun, dostum... Ihhm...",
+                "Hey! ...O keskin bakış da neyin nesi? Ihh..."
             ],
             "tradergiveitem": [
                 "Sağol!",
-                "Onu toplama ekliyorum.",
+                "Bunu toplama ekliyorum.",
                 "Teşekkkürler!",
                 "Buna ihtiyacım olacak.",
                 "Oy! Sağol!",
                 "Güzel!"
             ],
             "traderbuy": [
-                "Here you are. Cheers!",
-                "Alright! Here's your pick. Good luck out there.",
-                "Have this. Thank ya, mate.",
-                "Here, have this.",
-                "Pleasure doing business with you, haha.",
-                "There."
+                "Buyur. Şerefe!",
+                "Peki! İşte şeçimin. Dışarıda bol şanslar.",
+                "Bunu al. Sağol, dostum.",
+                "İşte, bunu al.",
+                "Seninle iş yapmak bir zevktir, haha.",
+                "Buyur."
             ],
             "traderbuyfail": [
-                "Gimmie a few more things.",
-                "I'm not going first.",
-                "Hand over a few more things first.",
-                "Pay first!"
+                "Bana bir kaç şeycik daha ver.",
+                "Önce ben vermeyeceğim.",
+                "Önce bir kaç şey daha ver.",
+                "Önce öde!"
             ],
             "traderwarning": [
                 "Çık.",
@@ -2962,45 +2962,45 @@
                 "SENİNLE İŞİM BİTTİ!",
                 "SİKTİR GİT!",
                 "DIŞARI! DIŞARI ÇIK! ŞİMDİ! DIŞARI!",
-                "ÇEK GİT!"
+                "DEFOL GİT!"
             ],
             "traderthreatensuccess": [
-                "Okay, okay, jeez... Take whatever, just don't hurt me...",
-                "Asshole... Fine. Go ahead. Please leave after.",
-                "Nggh... Fuck you... Take what you want and leave!",
-                "Please don't hurt me! Take something and... Please leave...",
-                "...Okay. Take something and do not come back. Spare the threats."
+                "Tamam, tamam, tanrım... Ne istersen al, ama bana zarar verme...",
+                "Aşağılık herif... Tamam. Ne istiyorsan al. Sonra lütfen git.",
+                "Iıığhhh... Orospu evladı... Ne istiyorsan al ve çek git!",
+                "Lütfen bana zarar verme! Bir şey al ve... Lütfen git...",
+                "...Tamam. Bir şey al ve geri dönme. Beni tehdit etmeyi kes."
             ],
             "traderlightbreak": [
-                "Dude, what the fuck? Why would you do that? Fuck off.",
-                "...Did you really think I would not see that. You fucker. Get out!",
-                "Hey! What the hell! I needed that! Get the fuck out!",
-                "Ahh! You THIEF! Get the hell out!",
-                "Dude. Okay... Okay then. Okay... I... Uh... Please leave."
+                "Napıyosun lan? Neden öyle bir şey yaptın? Siktir git.",
+                "...Bunu görmeyeceğimi mi sandın? Seni pislik. Defol!",
+                "Ey! Ne yaptın lan! Ona ihtiyacım vardı! Siktir git!",
+                "Aahh! Seni HIRSIZ! Çık lan dışarı!",
+                "Dostum. Peki... Pekâla. Tamam... Ben... Ih... Lütfen git."
             ],
             "traderwakegreet": [
-                "Good mornin'.",
-                "Hi! You're up now.",
-                "Morning, sleepyhead.",
-                "How didya rest?",
-                "Hope you slept well.",
-                "Wakey wakey!"
+                "Günaydın.",
+                "Merhaba! Uyanmışsın.",
+                "Günaydın, uykucu.",
+                "İyi uyudun mu?",
+                "Umarım iyi uyumuşsundur.",
+                "Hadi uyan!"
             ],
             "traderseegun": [
-                "...Woah there! Put that gun away, man... Anyway.",
-                "Hey! What's with the gun? Put that away, please. ...So.",
-                "I hope you're not using that gun, haha.",
-                "Ey, I don't have a gun, so put yours away, bud."
+                "...Eyyy dur! Silahını bırak, dostum... Neyse.",
+                "Ey! Silah da ne oluyor şimdi! Lüften bırak onu ...Ne diyordum.",
+                "Umarım o silahı kullanmıyorsundur, haha.",
+                "Ey, benim silahım yok, onun için kendininkini kaldır, adamım."
             ],
             "tradermeetimpairedspeech": [
-                "...Huh? What? Is there something in your mouth? I can't understand you...",
-                "Mmmff mff mmmmfff mhfff! That's what you sound like.",
+                "...Ha? Ney? Ağzında bir şey mi var? Seni anlayamıyorum...",
+                "Mımmff mıff mmmmıfff mhıfff! Aynen böyle duyuluyorsun.",
                 "Şu anda kötü bir durumda olduğumuzu anlıyorum, ama en azından net konuşmak için biraz çaba gösterebilirsin..."
             ],
             "traderseehurt": [
-                "Since you're hurt, I'll let ya grab a bandage for free if you can find one around here...",
-                "Aww, you're hurt. If you can find a bandage on me, you can take it! I don't remember if I have one...",
-                "Ohh, you don't seem to be doing well... Tell ya what, you can grab a bandage for free if you see one."
+                "Yaralandığın için, buralarda bulabilirsen bedavaya bir bandaj alabilirsin...",
+                "Ah, yaralanmışsın. Üzerimde bandaj bulabilirsen alabilirsin! Var mı hatırlamıyorum...",
+                "Ohh, pek iyi görünmüyorsun... Bak ne diyeceğim, bir bandaj görürsen bedavaya alabilirsin."
             ],
             "swingresponse": [
                 "ÖZÜR DİLERİM!",
@@ -3051,156 +3051,156 @@
         },
         {
             "tradermeetnormal": [
-                "Greetings.",
-                "Hello.",
-                "My pleasure to meet you.",
-                "Ah! Hello there!",
-                "Welcome, fellow traveler.",
-                "Greetings to you.",
-                "Welcome.",
-                "Nice to meet you!",
-                "I hope all is well."
+                "Selamlar.",
+                "Merhaba.",
+                "Sizinle tanıştığıma memnun oldum.",
+                "Ah! Merhaba!",
+                "Hoş geldin, gezgin.",
+                "Selamlar sana.",
+                "Hoş geldin.",
+                "Tanıştığıma memnun oldum!",
+                "Umarım her şey iyidir."
             ],
             "tradermeetgood": [
-                "I'm honored to see another survivor.",
-                "Oh! Hello! How are you doing, friend?",
-                "Greetings, dear. How are you doing?",
-                "Ah! Greetings. You look very chipper!",
-                "Ah, how happy I am to see someone like you!"
+                "Başka birini daha hayatta görmekten onur duyuyorum.",
+                "Oh! Merhaba! Nasılsın dostum?",
+                "Merhaba canım. Nasılsın?",
+                "Ah! Merhaba. Çok neşeli görünüyorsun!",
+                "Ah, senin gibi birini gördüğüme o kadar mutluyum ki!"
             ],
             "tradermeetbad": [
-                "...I am not impressed.",
-                "Ough. Hello...",
-                "...You confound me. Greetings.",
-                "...Hello.",
-                "Greetings. Please refrain from touching me.",
-                "Hello, fellow survivor.",
-                "Greetings. Please use the door next time.",
-                "Welcome.",
-                "Greetings."
+                "...Etkilenmedim.",
+                "Oğh. Merhaba...",
+                "...Kafamı karıştırdın. Merhaba.",
+                "...Merhaba.",
+                "Selamlar. Lütfen bana dokunmaktan kaçın.",
+                "Merhaba, dostum.",
+                "Selamlar. Lüften bir dahaki sefere kapıyı kullan.",
+                "Hoş geldin.",
+                "Selamlar."
             ],
             "traderwakegreet": [
-                "Good morning.",
-                "Hey, you're finally awake.",
-                "Greetings, you've awoken.",
-                "Guess who's awake!",
-                "Sleepyhead. Welcome back!",
-                "You were sleeping like a puppy, haha..."
+                "Günaydın.",
+                "Hey, sonunda uyandın.",
+                "Selamlar, uyanmışsın.",
+                "Bil bakalım kim ayıldı!",
+                "Uykucu seni. Tekrar hoşgeldin!",
+                "Bebek gibi uyuyordun, haha..."
             ],
             "tradergiveitem": [
-                "Thank you.",
-                "That'll come in useful.",
-                "Thank you for the contribution.",
-                "I'm taking this.",
-                "Useful.",
-                "My pleasure.",
-                "I'll make good use of this."
+                "Teşekkür ederim.",
+                "Bu işime yarayacak.",
+                "Katkıların için teşekkür ederim.",
+                "Bunu alıyorum.",
+                "Faydalı.",
+                "Memnuniyetle.",
+                "Bunu iyi değerlendireceğim."
             ],
             "traderhagglesuccess": [
-                "Fine.",
-                "I will make an exception for you.",
-                "Ah, you seem nice.",
-                "You make a good point.",
-                "I accept your request.",
-                "I hear you, buddy. Sure.",
-                "I have to agree.",
-                "Affirmative..."
+                "Peki.",
+                "Senin için bir istisna yapacağım.",
+                "Ah, hoş görünüyorsun.",
+                "Çok güzel bir noktaya değindin.",
+                "İsteğini kabul ediyorum.",
+                "Seni anlıyorum, dostum. Tabii.",
+                "Söylediğine katılmam gerek.",
+                "Olumlu..."
             ],
             "traderhagglefail": [
-                "How about no?",
-                "I'm not a damn charity.",
-                "I only accept facts and logic, not uncoordinated pleas.",
-                "No.",
-                "That was the worst argument I've ever heard.",
-                "I have to deny your appeal.",
-                "Negative.",
-                "No exceptions, sorry."
+                "Hayıra ne dersin?",
+                "Ben lanet olası bir hayır kurumu değilim.",
+                "Ben sadece gerçekleri ve mantığı kabul ediyorum, düzensiz yalvarışları değil.",
+                "Hayır.",
+                "Bu şimdiye kadar duyduğum en kötü argümandı.",
+                "İsteğini geri çevirmem lazım.",
+                "Negatif.",
+                "İstisna yok, üzgünüm."
             ],
             "traderbuy": [
-                "No refunds.",
-                "Here you are.",
-                "Don't break it.",
-                "Good luck with this.",
-                "I hope you know how to use this.",
-                "Hope it'll be useful.",
-                "Here's your reward."
+                "İade yok.",
+                "İşte burada.",
+                "Bunu kırma.",
+                "İyi şanslar.",
+                "Umarım bunu nasıl kullanacağını biliyorsundur.",
+                "Umarım fayda sağlar.",
+                "İşte ödülün."
             ],
             "traderbuyfail": [
-                "No.",
-                "I'm not a charity.",
-                "I don't give out things for free.",
-                "Pay up first.",
-                "I'm not giving you anything without an appropriate return.",
-                "Do I look like a charity to you?",
-                "You're joking.",
-                "How insulting."
+                "Hayır.",
+                "Ben hayır kurumu değilim.",
+                "Ben bir şeyleri bedava dağıtmıyorum.",
+                "Önce öde.",
+                "Uygun bir karşılık olmadan sana hiçbir şey vermeyeceğim.",
+                "Sana bir hayır kurumu gibi mi gözüküyorum?",
+                "Şaka mısın?",
+                "Ne kadar aşağılayıcı."
             ],
             "traderthreatensuccess": [
-                "It is not in my interests to get hurt. Take whatever and leave.",
-                "Fine. Take your pick and please exit my pod.",
-                "I hope misfortune awaits you. Fine. Take it and leave.",
-                "You are a horrible person, you know that?",
-                "So this is how you solve issues. Mhm. Fine.",
-                "Did it really have to come to this? You know better... Ugh. Fine.",
-                "A robbery was not something present on my bucket list. But, fine. Just don't hurt me."
+                "İncinmek benim çıkarımda değil. Ne istiyorsan al ve git.",
+                "Peki. Ne istiyorsan seç ve lüften kapsülümden ayrıl.",
+                "Umarım başına talihsizlik gelir. Peki. Al ve git.",
+                "Sen korkunç birisin, biliyor musun?",
+                "Demek sorunları böyle çözüyorsun. Hı hı. Peki.",
+                "Gerçekten olaylar bu noktaya gelmek zorunda mıydı? Neyse, sen bilirsin...",
+                "Soyguna uğramak yapılacaklar listemde yer alan bir şey değildi. Ama pekâla. Bana zarar verme yeter."
             ],
             "traderwarning": [
-                "Leave at once.",
-                "I do NOT appreciate your presence. Leave.",
-                "OUT.",
-                "Do you not think I'm serious? Out.",
-                "Get. Out.",
-                "Please. Leave.",
-                "Leave.",
-                "I'm not dealing with you right now.",
-                "Please leave my pod in peace. I got here first."
+                "Derhâl ayrıl.",
+                "Senin varlığından hoşnut DEĞİLİM. Çık git.",
+                "DIŞARI.",
+                "Şaka yaptığımı mı sanıyorsun? Dışarı.",
+                "Dışarı. Çık.",
+                "Lütfen. Git.",
+                "Çık git.",
+                "Seninle uğraşmak istemiyorum.",
+                "Lütfen kapsülümden sakince ayrıl. Önce ben buraya geldim."
             ],
             "tradercombat": [
-                "I didn't want it to come to this.",
-                "Fucking imbecile.",
-                "Get the fuck out.",
-                "Oh, FUCK you!",
-                "GET OUT!",
-                "This is MY POD! OUT!",
-                "I'm NOT tolerating another moment of YOUR presence!"
+                "Bu noktaya gelmesini ben istemedim.",
+                "Lanet olası embesil.",
+                "Siktir git.",
+                "Aman, SİKTİR GİT!",
+                "DIŞARI ÇIK!",
+                "Bu BENİM KAPSÜLÜM! ÇIK!",
+                "Senin varlığına bir an daha katlanacak tahammülüm YOK!"
             ],
             "traderhugsuccess": [
-                "Ahh... I'll... I'll allow it.",
-                "How affectionate...",
-                "Awww. You really needed that...",
-                "Aww, what a nice person you are.",
-                "Mmmhh...",
-                "What a display of affection..."
+                "Ahh... Ben... İzin veriyorum.",
+                "Ne kadar sevecen...",
+                "Ayyy. Buna ihtiyacın vardı...",
+                "Ayy, ne kadar da iyi birisin.",
+                "Mımmhh...",
+                "Nasıl da bir şevkât gösterisi..."
             ],
             "traderhugfail": [
-                "NO TOUCHIES!",
-                "Refrain.",
-                "Cease. Do not embrace me.",
-                "No. Stop. Do not touch me.",
-                "Ew! Get your hands off of me."
+                "DOKUNMAK YOK!",
+                "Kendini tut.",
+                "Kes. Bana sarılma.",
+                "Hayır. Dur. Dokunma bana.",
+                "Iy! Ellerini üzerimden çek."
             ],
             "traderseegun": [
-                "Before we talk, please remove that gun from your person. Anyway...",
-                "I hope this isn't a robbery. If not, put the gun away... Either way...",
-                "Get that gun away from me, this isn't an active shootout. Anyway...",
-                "Are you TRYING to make yourself a threat to me or do you just think the gun looks cool..?"
+                "Konuşmadan önce, lütfen o silahı bırak. Her neyse...",
+                "Umarım bu bir soygun değildir. Değilse, silahı kaldır... Her halükarda...",
+                "O silahı benden uzak tut, bu aktif bir çatışma değil. Her neyse...",
+                "Bana tehdit oluşturmaya mı çalışıyorsun yoksa sadece silahın havalı göründüğünü mü düşünüyorsun?"
             ],
             "tradermeetimpairedspeech": [
-                "What are you saying..? I can't understand you.",
-                "Your speech is extremely muffled. Just letting you know.",
-                "I can barely make out what you're saying to me."
+                "Ne diyorsun..? Seni anlayamıyorum.",
+                "Sesin çok boğuk geliyor. Bilgin olsun diye.",
+                "Bana ne söylediğini zar zor anlayabiliyorum."
             ],
             "traderseehurt": [
-                "You appear to be injured and bleeding... You can take a bandage if you wish.",
-                "Ew! Please don't bleed all over my floor. Grab a bandage and treat yourself if you see one, mine are free.",
-                "That doesn't look good... You may take a bandage for free if you can find one on me."
+                "yaralısın ve kanıyorsun... İstiyorsan bir bandaj alabilirsin.",
+                "Iy! Lütfen yeri kanla kirletme. Bir bandaj bulursan al ve yarana sar, benimkiler bedava.",
+                "Hiç iyi görünmüyor... Üzerimde bir bandaj bulabilirsen, bedavaya alabilirsin."
             ],
             "traderlightbreak": [
-                "...Dude. I have eyes. Thief... Leave!",
-                "Oh, you idiot! Leave, now! OUT!",
-                "EY! Fuck you! Get the fuck out!",
-                "Why the fuck would you do that!? Get out! I needed that light!",
-                "Why are you destroying my pod!? Get OUT! LEAVE!"
+                "...Dostum. Kör değilim. Hırsız... Çık git!",
+                "Seni salak! Defol git, hemen! DIŞARI!",
+                "EY! Pislik! Siktir git!",
+                "Hangi akılla öyle bir şey yaparsın!? Defol git! O ışığa ihtiyacım vardı!",
+                "Kapsülümü neden parçalıyorsun!? DIŞARI ÇIK! DEFOL!"
             ]
         }
     ],
