@@ -445,7 +445,7 @@
         "makeshiftrifle": "Ev yapımı tüfek",
         "makeshiftrifledsc": "Hurda borular ve silah parçalarından yapılmış, doğaçlama bir sürgülü ateşli silah. 9mm mermiyle doldurulmuş küçük şarjörler kullanır. Islakken veya kötü durumdayken sıkışabilir. Kullanmak ve kontrolleri görmek için ana elinde tut.",
         "casing": "Kılıf",
-        "casingdsc": "Kullanılmış kılıf. Artık pek bir işe yaramasa da, eşya yapımında yeniden kullanılabilir."
+        "casingdsc": "Kullanılmış kılıf. Artık pek bir işe yaramasa da, eşya yapımında yeniden kullanılabilir.",
         "keratinbooster": "Keratin güçlendirici",
         "keratinboosterdsc": "Keratinin büyümesini teşvik etmek için özellikle keratini hedef alan, modifiye edilmiş büyüme hormonu ile doldurulmuş bir şişe. Bir süreliğine pençelerinin daha hızlı uzamasını sağlar."
     },
@@ -761,7 +761,7 @@
         "amputation": "Ampüte",
         "clawdamage1": "Küt pençeler",
         "clawdamage2": "Kırık pençeler",
-        "keratinbooster": "Güçlendirilmiş büyüme"
+        "keratinbooster": "Güçlendirilmiş büyüme",
 
         "deaddsc": "Kalıcı, geri dönüşü olmayan ve tam beyin fonksiyon kaybı. Sen de diğerleri gibi bu dünyayı geride bıraktın.",
         "braindamage4dsc": "...",
@@ -904,7 +904,7 @@
         "rippedeyesdsc": "İki gözünü de kaybettin. Etrafı sadece işiterek ve dokunarak anlayabiliyorsun. En azından ışığa ihtiyacın yok...",
         "lowimmunitydsc": "Bağışıklık sistemin, kir, açlık, susuzluk veya başka nedenlerle ciddi şekilde zayıfladı. Enfeksiyonlar çok daha tehlikeli. Kendine daha iyi bak.",
         "highimmunitydsc": "Bağışıklık sistemin, muhtemelen antibiyotiklerin etkisiyle yüksek kapasitede çalışıyor. Enfeksiyonlar çok daha az tehlikelidir ve %200'e yakın bir durumda kendiliğinden gerileyebilir.",
-        "amputationdsc": "Vücudundan bir uzuv koptu. Travmatik. Tabii ki de, kopan uzvun herhangi bir işlevi kalıcı olarak yok oldu."
+        "amputationdsc": "Vücudundan bir uzuv koptu. Travmatik. Tabii ki de, kopan uzvun herhangi bir işlevi kalıcı olarak yok oldu.",
         "clawdamage1dsc": "Sürekli kullanımdan dolayı pençelerin aşındı ve verdiğin hasar azaldı. Ellerine biraz dinlendir ya da bir alet kullan.",
         "clawdamage2dsc": "Aşırı kullanımdan dolayı pençelerin ciddi şekilde hasar gördü ve bu da verdiğin hasarı önemli ölçüde azalttı. Alet kullanmamaya devam edersen ellerine zarar verebilirsin.",
         "keratinboosterdsc": "Pençelerin normalin üç katı hızla büyüyor. (<>)"
